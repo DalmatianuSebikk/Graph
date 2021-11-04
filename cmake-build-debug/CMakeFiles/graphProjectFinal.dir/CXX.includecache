@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/graphProjectFinal/Graph.cpp
+iostream
+-
+stack
+-
+queue
+-
+algorithm
+-
+Graph.h
+D:/graphProjectFinal/Graph.h
+
+D:/graphProjectFinal/Graph.h
+vector
+-
+
+D:/graphProjectFinal/main.cpp
+iostream
+-
+Graph.h
+D:/graphProjectFinal/Graph.h
+
